@@ -9,7 +9,6 @@ footer{
 	padding: 10px;
 	font-family:Georgia;
 	z-index: 1000;
-	position:fixed;
 }
 #disqus{
 	width:90%;
