@@ -5,15 +5,15 @@ footer{
 	background: radial-gradient(ellipse,white,#A4A4A4);
 	text-align:center;
 	width:100%;
-	bottom: 0px;
 	padding: 10px;
 	font-family:Georgia;
-	z-index: 1000;
+	font-size:16px;
+	margin-top:20px;
 }
 #disqus{
 	width:90%;
 	margin:0px auto;
-	padding:20px 0px 50px 0px;
+	padding:20px 0px 20px 0px;
 	border-radius: 10px;
-	box-shadow:1px 1px 1px 1px rgba(20%,20%,40%,0.5);
+	box-shadow:1px 1px 3px rgba(20%,20%,40%,0.3),-1px 1px 3px rgba(20%,20%,40%,0.3);
 }
