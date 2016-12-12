@@ -1,0 +1,15 @@
+footer{
+	background: -webkit-radial-gradient(ellipse,white,#A4A4A4);
+	background: -o-radial-gradient(ellipse,white,#A4A4A4);
+	background: -moz-radial-gradient(ellipse,white,#A4A4A4);
+	background: radial-gradient(ellipse,white,#A4A4A4);
+	text-align:center;
+	margin:0px -15px 0px -15px;
+	width:100%;
+	bottom: 0px;
+	padding: 10px;
+	font-family:Georgia;
+	z-index: 1000;
+	position:fixed;
+	font-size:16px;
+}
